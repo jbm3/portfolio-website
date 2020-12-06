@@ -23,6 +23,8 @@ Project is created with:
 - HTML 5
 - CSS 3
 - PHP 7.4
+- SCSS
+- JavaScript
 
 ## Setup
 
