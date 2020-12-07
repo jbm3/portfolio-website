@@ -42,9 +42,9 @@ Please make sure to update tests as appropriate.
 "images/aleksandar-pasaric.webp", "images/christina-morillo.webp"
 Pexels
 
-The Creative React and Redux Course Dev Ed
+Course's Dev Ed
 
-Responsive Grid CSS Website Layout Traversy Media
+Course's Traversy Media
 
 ## License
 
