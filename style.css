@@ -267,7 +267,7 @@ input#mail:focus:valid {
   grid-column-start: 1;
   grid-column-end: 5;
   background-color: #009cde;
-  top: 1700px;
+  top: 1400px;
 }
 
 /*nav*/
