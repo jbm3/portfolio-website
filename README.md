@@ -48,4 +48,4 @@ Course's Traversy Media
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/?target=_blank)
+[MIT](https://choosealicense.com/licenses/mit/)
